@@ -16,7 +16,7 @@ Anything that blends creativity, UI polish, and meaningful user experiences. Let
 📫 How to reach me:  
 - 📧 [gale.s.salazar22@gmail.com](mailto:gale.s.salazar22@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gale-s-salazar22/)  
-- 🖥️ My Portfolio *(coming soon)*
+- 🖥️[ My Portfolio ](https://galessalazar.netlify.app/)
 
 😄 Pronouns: she/her
 
